@@ -1,8 +1,8 @@
-# Bitz
+# Bitz (moved)
 
-Public support and privacy pages for the Bitz app (iPhone and iPad).
+The Bitz support and privacy pages now live on gibplay.com. The pages in this repository only redirect there.
 
-- Support: https://berkay-yilmaz.github.io/bitz-app/support.html
-- Privacy: https://berkay-yilmaz.github.io/bitz-app/privacy.html
+- Support: https://gibplay.com/Bitz/support/
+- Privacy: https://gibplay.com/Bitz/privacy/
 
-Questions and problem reports: info@gibplay.com (Gibplay Game Studio, https://gibplay.com).
+Contact: info@gibplay.com
